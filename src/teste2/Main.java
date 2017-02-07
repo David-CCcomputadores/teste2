@@ -9,6 +9,8 @@ public class Main {
     public static void main(String[] args) {
        System.out.println("Olá Mundo");
         //Fiz Código
+        System.out.println("Adeus Mundo");
+        //Fiz Código
  
     }
 
